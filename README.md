@@ -1,2 +1,2 @@
-# AndroidAndKotlin
+# AndroidWithKotlin
 Homework in Quintrix
